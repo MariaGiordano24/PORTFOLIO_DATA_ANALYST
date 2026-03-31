@@ -1,5 +1,3 @@
-# Portfolio_data_analyst
-Portfolio di progetti Data Analysis 
 # 📊 Data Analyst Portfolio
 
 ## 👋 Chi sono
@@ -55,6 +53,6 @@ Utilizzo della libreria Pandas per la gestione dei dataset e l’estrazione di i
 ## 📬 Contatti
 
 - LinkedIn: [https://www.linkedin.com/in/maria-giordano-da/]
-- Email: [Scrivimi](mailto:mariagiordana89@gmail.com)
+- Email: [mariagiordana89@gmail.com](mailto:mariagiordana89@gmail.com)
 - GitHub: [https://github.com/MariaGiordano24]
 
